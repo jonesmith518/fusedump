@@ -1,4 +1,6 @@
 # fusedump ![License](https://img.shields.io/badge/License-GPLv2-blue.svg)
+**fusedump is now deprecated. Use [moonflower](https://github.com/moriczgergo/moonflower) instead.**
+
 A barebones fuse dumper for the Switch, to be used with fusée gelée.
 
 *NOTE: Your fuse dump may contain sensitive info that you probably don't want to leak.*
